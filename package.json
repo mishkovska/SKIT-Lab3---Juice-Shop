@@ -1,0 +1,24 @@
+{
+  "name": "skit-lab3",
+  "version": "1.0.0",
+  "description": "Cypress Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "Juice Shop",
+    "testing",
+    "cypress",
+    "automation",
+    "frameworks"
+  ],
+  "author": "Bojana Mishkovska",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.11.0",
+    "ts-loader": "^9.4.2",
+    "typescript": "^5.0.4"
+  }
+}
